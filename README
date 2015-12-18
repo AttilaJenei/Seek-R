@@ -1,0 +1,27 @@
+Seek-R - V1.00
+===================
+Readme
+
+http://www.seek-r.com
+
+Copyright
+---------
+
+Copyright (C) 2013 Attila Jenei <www@seek-r.com>
+
+License
+-------
+
+You should have received a copy of the LICENSE file along with this program.
+If not, visit <http://www.seek-r.com/license>.
+
+Requirements
+------------
+
+* PHP 5.x or later with mbstring support
+* MySQL 5.1 or later
+
+Summary
+-------
+
+Use Seek-R for automated scanning for changes and sending email alerts about them.
